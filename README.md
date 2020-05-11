@@ -1,0 +1,3 @@
+# AulasPython
+codigo
+Exercicios feitos 
